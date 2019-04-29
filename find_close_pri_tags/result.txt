@@ -1,0 +1,6 @@
+# result on firefox, IE 11, Edge, chrome
+!--  
+iframe  
+noembed  
+noframes  
+noscript  
